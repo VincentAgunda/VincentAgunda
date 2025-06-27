@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vincent</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00FFF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Nexture;React+%7C+Vue+%7C+Node.js;Python+Django+%7C+Flask;Clean+Code+%7C+System+Design;Based+in+Nairobi,+Kenya" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00FFF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Nexture.co.ke;React+%7C+Vue+%7C+Node.js;Python+Django+%7C+Flask;Clean+Code+%7C+System+Design;Based+in+Nairobi,+Kenya" alt="Typing SVG" />
 </p>
 
 <p align="center">
